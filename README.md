@@ -25,4 +25,4 @@ Password: 1234
 
 👨‍💻 Author
 
-Ashley Zichawo
+Nigel Majaya
